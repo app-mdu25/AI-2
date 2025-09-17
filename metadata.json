@@ -1,0 +1,5 @@
+{
+  "name": "NanoBanana AI Wardrobe",
+  "description": "An application that uses Google AI's image generation capabilities to digitally change a person's outfit in a photo. Users can upload a face image, select clothing, and choose a background to generate a new stylized image.",
+  "requestFramePermissions": []
+}
